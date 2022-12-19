@@ -1,0 +1,21 @@
+
+.canvas-container {
+    /*background: url(assets/img/menu-preload.jpg) no-repeat center center fixed;
+    background-size: cover;*/
+    background-color:#02e49b;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width:100%;
+    height:100%;
+}
+
+.editPlaceholderContainer {
+    background-color:lightgray;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+    width:500px;
+    height:300px;
+}

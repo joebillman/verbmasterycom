@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "bf/game",
+  "title": "Brain Fusion Game",
+  "category": "media",
+  "icon": "games",
+  "description": "Adds a fun Brain Fusion learning game",
+  "keywords": [
+    "game",
+    "learning",
+    "education"
+  ],
+  "version": "1",
+  "textdomain": "bf",
+  "editorScript": "file:./index.js",
+  "attributes": {},
+  "style": "file:./index.css"
+}

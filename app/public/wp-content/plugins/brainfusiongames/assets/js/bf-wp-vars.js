@@ -1,0 +1,1 @@
+// This file stores variables populated dynamically by php script.

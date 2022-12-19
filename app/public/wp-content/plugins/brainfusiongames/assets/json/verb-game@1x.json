@@ -1,0 +1,85 @@
+{
+
+"images": [
+    "img/verb-game@1x.png"
+],
+
+"framerate": 60,
+"frames": [
+    [2, 2, 522, 541, 0, 0, 0],
+    [2, 546, 638, 264, 0, 0, 0],
+    [527, 2, 439, 260, 0, 0, 0],
+    [527, 265, 383, 242, 0, 0, 0],
+    [2, 813, 311, 73, 0, 0, 0],
+    [2, 889, 221, 53, 0, 0, 0],
+    [316, 813, 221, 53, 0, 0, 0],
+    [643, 510, 221, 53, 0, 0, 0],
+    [643, 566, 116, 109, 0, 0, 0],
+    [643, 678, 110, 109, 0, 0, 0],
+    [762, 566, 106, 109, 0, 0, 0],
+    [756, 678, 110, 108, 0, 0, 0],
+    [869, 678, 107, 109, 0, 0, 0],
+    [871, 510, 105, 108, 0, 0, 0],
+    [913, 265, 63, 58, 0, 0, 0],
+    [913, 326, 63, 58, 0, 0, 0],
+    [316, 869, 133, 50, 0, 0, 0],
+    [540, 813, 133, 50, 0, 0, 0],
+    [452, 869, 133, 50, 0, 0, 0],
+    [588, 866, 133, 50, 0, 0, 0],
+    [871, 621, 94, 37, 0, 0, 0],
+    [913, 387, 58, 58, 0, 0, 0],
+    [913, 448, 58, 58, 0, 0, 0],
+    [226, 889, 58, 58, 0, 0, 0],
+    [676, 790, 133, 50, 0, 0, 0],
+    [812, 790, 133, 50, 0, 0, 0],
+    [724, 843, 58, 58, 0, 0, 0],
+    [785, 843, 57, 58, 0, 0, 0],
+    [845, 843, 57, 58, 0, 0, 0],
+    [905, 843, 56, 58, 0, 0, 0],
+    [724, 904, 56, 58, 0, 0, 0],
+    [783, 904, 56, 58, 0, 0, 0],
+    [842, 904, 56, 58, 0, 0, 0]
+],
+
+"animations": {
+    "word-list": { "frames": [0] },
+    "logo-menu": { "frames": [1] },
+    "great-job": { "frames": [2] },
+    "dark-transparent-box": { "frames": [3] },
+    "word-box": { "frames": [4] },
+    "continue-btn": { "frames": [5] },
+    "play-again-btn": { "frames": [6] },
+    "play-btn": { "frames": [7] },
+    "amulet_3": { "frames": [8] },
+    "amulet_1": { "frames": [9] },
+    "amulet_5": { "frames": [10] },
+    "amulet_2": { "frames": [11] },
+    "amulet_6": { "frames": [12] },
+    "amulet_4": { "frames": [13] },
+    "amulet3-mini": { "frames": [14] },
+    "amulet3-placeholder": { "frames": [15] },
+    "answer-box-blue": { "frames": [16] },
+    "answer-box-green": { "frames": [17] },
+    "answer-box-orange": { "frames": [18] },
+    "answer-box-pink": { "frames": [19] },
+    "score-box": { "frames": [20] },
+    "amulet1-mini": { "frames": [21] },
+    "amulet1-placeholder": { "frames": [22] },
+    "amulet2-mini": { "frames": [23] },
+    "answer-box-purple": { "frames": [24] },
+    "answer-box-yellow": { "frames": [25] },
+    "amulet2-placeholder": { "frames": [26] },
+    "amulet5-mini": { "frames": [27] },
+    "amulet5-placeholder": { "frames": [28] },
+    "amulet4-mini": { "frames": [29] },
+    "amulet4-placeholder": { "frames": [30] },
+    "amulet6-mini": { "frames": [31] },
+    "amulet6-placeholder": { "frames": [32] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:f4db70c2423bb930664ca86104a9f786:da912c0b2076f00319aed441cf9cf3a1:3d63e08f8133397a9a80cee57b3d8791$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

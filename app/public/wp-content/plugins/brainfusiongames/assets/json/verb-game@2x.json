@@ -1,0 +1,85 @@
+{
+
+"images": [
+    "img/verb-game@2x.png"
+],
+
+"framerate": 60,
+"frames": [
+    [2, 2, 1044, 1082, 0, 0, 0],
+    [2, 1087, 1276, 527, 0, 0, 0],
+    [1049, 2, 877, 520, 0, 0, 0],
+    [1049, 525, 766, 484, 0, 0, 0],
+    [2, 1617, 622, 146, 0, 0, 0],
+    [2, 1766, 266, 99, 0, 0, 0],
+    [271, 1766, 266, 99, 0, 0, 0],
+    [627, 1617, 442, 106, 0, 0, 0],
+    [627, 1726, 442, 106, 0, 0, 0],
+    [1281, 1012, 442, 106, 0, 0, 0],
+    [1281, 1121, 231, 217, 0, 0, 0],
+    [1281, 1341, 219, 218, 0, 0, 0],
+    [1515, 1121, 212, 217, 0, 0, 0],
+    [1503, 1341, 219, 216, 0, 0, 0],
+    [1072, 1617, 210, 216, 0, 0, 0],
+    [1285, 1562, 213, 218, 0, 0, 0],
+    [1285, 1783, 188, 73, 0, 0, 0],
+    [1818, 525, 116, 116, 0, 0, 0],
+    [1818, 644, 116, 116, 0, 0, 0],
+    [1818, 763, 116, 116, 0, 0, 0],
+    [1818, 882, 116, 116, 0, 0, 0],
+    [1503, 1560, 266, 99, 0, 0, 0],
+    [1501, 1662, 266, 99, 0, 0, 0],
+    [1501, 1764, 266, 99, 0, 0, 0],
+    [1726, 1012, 266, 99, 0, 0, 0],
+    [1730, 1114, 125, 116, 0, 0, 0],
+    [1858, 1114, 125, 116, 0, 0, 0],
+    [1730, 1233, 113, 116, 0, 0, 0],
+    [1846, 1233, 113, 116, 0, 0, 0],
+    [1725, 1352, 112, 116, 0, 0, 0],
+    [1840, 1352, 112, 116, 0, 0, 0],
+    [1772, 1471, 111, 116, 0, 0, 0],
+    [1772, 1590, 111, 116, 0, 0, 0]
+],
+
+"animations": {
+    "word-list": { "frames": [0] },
+    "logo-menu": { "frames": [1] },
+    "great-job": { "frames": [2] },
+    "dark-transparent-box": { "frames": [3] },
+    "word-box": { "frames": [4] },
+    "answer-box-blue": { "frames": [5] },
+    "answer-box-green": { "frames": [6] },
+    "continue-btn": { "frames": [7] },
+    "play-again-btn": { "frames": [8] },
+    "play-btn": { "frames": [9] },
+    "amulet_3": { "frames": [10] },
+    "amulet_1": { "frames": [11] },
+    "amulet_5": { "frames": [12] },
+    "amulet_2": { "frames": [13] },
+    "amulet_4": { "frames": [14] },
+    "amulet_6": { "frames": [15] },
+    "score-box": { "frames": [16] },
+    "amulet1-mini": { "frames": [17] },
+    "amulet1-placeholder": { "frames": [18] },
+    "amulet2-mini": { "frames": [19] },
+    "amulet2-placeholder": { "frames": [20] },
+    "answer-box-orange": { "frames": [21] },
+    "answer-box-pink": { "frames": [22] },
+    "answer-box-purple": { "frames": [23] },
+    "answer-box-yellow": { "frames": [24] },
+    "amulet3-mini": { "frames": [25] },
+    "amulet3-placeholder": { "frames": [26] },
+    "amulet5-mini": { "frames": [27] },
+    "amulet5-placeholder": { "frames": [28] },
+    "amulet6-mini": { "frames": [29] },
+    "amulet6-placeholder": { "frames": [30] },
+    "amulet4-mini": { "frames": [31] },
+    "amulet4-placeholder": { "frames": [32] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:f4db70c2423bb930664ca86104a9f786:da912c0b2076f00319aed441cf9cf3a1:3d63e08f8133397a9a80cee57b3d8791$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

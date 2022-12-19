@@ -1,0 +1,31 @@
+2022-12-19T16:56:41+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_63a097c922b1ahttpverbmasterycomlocalwp-admin","smb_name":"PROD","redirect_url":"http:\/\/verbmasterycom.local\/wp-admin\/"}
+ ajax: DOING_AJAX
+2022-12-19T16:56:46+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 28: Operation timed out after 5010 milliseconds with 0 bytes received
+
+2022-12-19T16:56:46+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/json
+X-Tt-Logid: 202212191656457ABC3EC56236DA2285D7,202212191656457ABC3EC56236DA2285D7
+x-tt-trace-host: 018723e2be32bb8e7961675980a8f2cf688eff87b9a7ad8fe3fd9f961f4814df0c7b0cc4e10684ad56c043392c82e3f49afa0cdb74aca5c40f8f5bff56868612843ba34d5dc7f82f7677c9d27d709a2a4334ea104626826eb1d4974829ce80f2f269996eec1f13fc4333e7258400ec60f6
+Content-Encoding: gzip
+Content-Length: 207
+X-Origin-Response-Time: 118,23.200.218.38
+X-Akamai-Request-ID: 451ec17d.99e7ad25
+Date: Mon, 19 Dec 2022 16:56:47 GMT
+X-Cache: TCP_MISS from a23-67-78-32.deploy.akamaitechnologies.com (AkamaiGHost/10.10.3-45298580) (-)
+Connection: close
+Vary: Accept-Encoding
+X-Cache-Remote: TCP_MISS from a23-200-218-38.deploy.akamaitechnologies.com (AkamaiGHost/10.10.3-45298580) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=168, origin; dur=118
+Server-Timing: inner; dur=111
+X-Parent-Response-Time: 284,23.67.78.32
+
+{"code":0,"msg":"ok","data":{"redirect_uri":"http:\/\/verbmasterycom.local\/wp-admin\/","app_id":"7178904700010364929","external_data_key":"536238a8-aa2e-461e-acd4-e722a1fef282","app_secret":"3181440985d1482f920b04fddc51eb1058d39500"}}
+

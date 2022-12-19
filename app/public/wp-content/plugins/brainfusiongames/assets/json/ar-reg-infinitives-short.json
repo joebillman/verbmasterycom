@@ -1,0 +1,34 @@
+{
+  "verbItems": [
+    {
+      "audioId": "llegar",
+      "english": "to arrive",
+      "spanish": "llegar"
+    },
+    {
+      "audioId": "hablar",
+      "english": "to speak / talk",
+      "spanish": "hablar"
+    },
+    {
+      "audioId": "llevar",
+      "english": "to carry / to wear",
+      "spanish": "llevar"
+    },
+    {
+      "audioId": "necesitar",
+      "english": "to need",
+      "spanish": "necesitar"
+    },
+    {
+      "audioId": "tu",
+      "english": "(Juana) you",
+      "spanish": "tú"
+    },
+    {
+      "audioId": "el",
+      "english": "he",
+      "spanish": "él"
+    }
+  ]
+}
