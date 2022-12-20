@@ -113,12 +113,12 @@ this.createjs = this.createjs || {};
             queue.on("fileload", this._handleManifestFileLoad, this);
             queue.on("progress", this._handleManifestProgress, this);
             queue.on("error", this._handleManifestError, this, true);
-            if(php_vars.assetUrl) {
+            if(globalVars.assetUrl) {
                 const len = json.images.length;
                 for(let i=0; i<len; i++)
                 {
                     //debugger;
-                    json.images[i] = php_vars.assetUrl+json.images[i];
+                    json.images[i] = globalVars.assetUrl+json.images[i];
                 }
             }
             queue.loadManifest(json.images);

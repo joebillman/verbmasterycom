@@ -35,7 +35,7 @@ function _onLoad()
 
 function createVerbGame()
 {
-    verbGame = new VerbGame("verb-game-canvas", php_vars.assetUrl);
+    verbGame = new VerbGame("verb-game-canvas", globalVars.assetUrl);
     stage = verbGame.getStage();
     resize(maintainAspectRatio, scaleStage, outputDebugInfo);
 }

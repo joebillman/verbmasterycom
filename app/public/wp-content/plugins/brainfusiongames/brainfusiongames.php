@@ -35,7 +35,7 @@ add_action("wp_enqueue_scripts","bf_init_scripts");
 // Functions
 function bf_init_scripts() {
 	wp_register_script( "bf-wp-vars", plugin_dir_url( __FILE__ ) . "assets/js/bf-wp-vars.js" );
-	wp_localize_script( "bf-wp-vars", "php_vars",
+	wp_localize_script( "bf-wp-vars", "globalVars",
 		array(
 			"assetUrl" => plugin_dir_url( __FILE__ )."assets/"
 		)
